@@ -1,0 +1,993 @@
+{
+    "data": {
+        "id": "A2082387062",
+        "upi": "18ffacf6d8dbbc9b347d1b752568449f",
+        "mis_id": "1",
+        "initials": "AB",
+        "title": "Mr",
+        "surname": "Blacker",
+        "forename": "Adrian",
+        "middle_names": null,
+        "legal_surname": "Blacker",
+        "legal_forename": "Adrian",
+        "gender": null,
+        "date_of_birth": null,
+        "restored_at": null,
+        "updated_at": {
+            "date": "2023-07-24 13:05:36.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        },
+        "created_at": {
+            "date": "2016-01-28 14:43:32.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        },
+        "classes": {
+            "data": [
+                {
+                    "id": "A1884218389",
+                    "mis_id": "14528",
+                    "name": "10B/Gg1",
+                    "code": null,
+                    "description": "10B/Gg1",
+                    "subject": "A1378534773",
+                    "alternative": null,
+                    "priority": null,
+                    "restored_at": null,
+                    "created_at": {
+                        "date": "2022-09-05 14:21:57.000000",
+                        "timezone_type": 3,
+                        "timezone": "UTC"
+                    },
+                    "updated_at": {
+                        "date": "2023-04-04 06:46:30.000000",
+                        "timezone_type": 3,
+                        "timezone": "UTC"
+                    },
+                    "meta": {
+                        "is_main_teacher": true,
+                        "is_class_teacher": true,
+                        "role": "Main Class Teacher",
+                        "all_roles": [
+                            "Main Class Teacher",
+                            "Class Teacher"
+                        ]
+                    },
+                    "lessons": {
+                        "data": [
+                            {
+                                "id": "A1450080597",
+                                "mis_id": "29-2023-23254-61821",
+                                "room": "A816665445",
+                                "period": "A711649210",
+                                "period_instance_id": "61821",
+                                "employee": "A2082387062",
+                                "alternative": null,
+                                "priority": null,
+                                "start_at": {
+                                    "date": "2023-07-17 08:15:00.000000",
+                                    "timezone_type": 3,
+                                    "timezone": "UTC"
+                                },
+                                "end_at": {
+                                    "date": "2023-07-17 09:15:00.000000",
+                                    "timezone_type": 3,
+                                    "timezone": "UTC"
+                                },
+                                "day_number": null,
+                                "created_at": {
+                                    "date": "2022-09-05 14:29:16.000000",
+                                    "timezone_type": 3,
+                                    "timezone": "UTC"
+                                },
+                                "updated_at": {
+                                    "date": "2022-09-05 14:29:16.000000",
+                                    "timezone_type": 3,
+                                    "timezone": "UTC"
+                                }
+                            },
+                            {
+                                "id": "A835692213",
+                                "mis_id": "29-2023-24041-61841",
+                                "room": "A1586652496",
+                                "period": "A11780805",
+                                "period_instance_id": "61841",
+                                "employee": "A2082387062",
+                                "alternative": null,
+                                "priority": null,
+                                "start_at": {
+                                    "date": "2023-07-20 10:35:00.000000",
+                                    "timezone_type": 3,
+                                    "timezone": "UTC"
+                                },
+                                "end_at": {
+                                    "date": "2023-07-20 11:35:00.000000",
+                                    "timezone_type": 3,
+                                    "timezone": "UTC"
+                                },
+                                "day_number": null,
+                                "created_at": {
+                                    "date": "2022-09-05 14:29:17.000000",
+                                    "timezone_type": 3,
+                                    "timezone": "UTC"
+                                },
+                                "updated_at": {
+                                    "date": "2022-09-05 14:29:17.000000",
+                                    "timezone_type": 3,
+                                    "timezone": "UTC"
+                                }
+                            },
+                            {
+                                "id": "A1491282633",
+                                "mis_id": "29-2023-24083-61842",
+                                "room": "A916583676",
+                                "period": "A112617052",
+                                "period_instance_id": "61842",
+                                "employee": "A2082387062",
+                                "alternative": null,
+                                "priority": null,
+                                "start_at": {
+                                    "date": "2023-07-20 11:35:00.000000",
+                                    "timezone_type": 3,
+                                    "timezone": "UTC"
+                                },
+                                "end_at": {
+                                    "date": "2023-07-20 12:35:00.000000",
+                                    "timezone_type": 3,
+                                    "timezone": "UTC"
+                                },
+                                "day_number": null,
+                                "created_at": {
+                                    "date": "2022-09-05 14:29:18.000000",
+                                    "timezone_type": 3,
+                                    "timezone": "UTC"
+                                },
+                                "updated_at": {
+                                    "date": "2022-09-05 14:29:18.000000",
+                                    "timezone_type": 3,
+                                    "timezone": "UTC"
+                                }
+                            },
+                            {
+                                "id": "A342125797",
+                                "mis_id": "29-2023-24262-61847",
+                                "room": "A816665445",
+                                "period": "A782439600",
+                                "period_instance_id": "61847",
+                                "employee": "A2082387062",
+                                "alternative": null,
+                                "priority": null,
+                                "start_at": {
+                                    "date": "2023-07-21 10:35:00.000000",
+                                    "timezone_type": 3,
+                                    "timezone": "UTC"
+                                },
+                                "end_at": {
+                                    "date": "2023-07-21 11:35:00.000000",
+                                    "timezone_type": 3,
+                                    "timezone": "UTC"
+                                },
+                                "day_number": null,
+                                "created_at": {
+                                    "date": "2022-09-05 14:29:18.000000",
+                                    "timezone_type": 3,
+                                    "timezone": "UTC"
+                                },
+                                "updated_at": {
+                                    "date": "2022-09-05 14:29:18.000000",
+                                    "timezone_type": 3,
+                                    "timezone": "UTC"
+                                }
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": "A1791881234",
+                    "mis_id": "14555",
+                    "name": "10y/Re3",
+                    "code": null,
+                    "description": "10y/Re3",
+                    "subject": "A1349279440",
+                    "alternative": null,
+                    "priority": null,
+                    "restored_at": null,
+                    "created_at": {
+                        "date": "2022-09-05 14:21:57.000000",
+                        "timezone_type": 3,
+                        "timezone": "UTC"
+                    },
+                    "updated_at": {
+                        "date": "2023-04-04 06:46:30.000000",
+                        "timezone_type": 3,
+                        "timezone": "UTC"
+                    },
+                    "meta": {
+                        "is_main_teacher": true,
+                        "is_class_teacher": true,
+                        "role": "Main Class Teacher",
+                        "all_roles": [
+                            "Main Class Teacher",
+                            "Class Teacher"
+                        ]
+                    },
+                    "lessons": {
+                        "data": [
+                            {
+                                "id": "A10266264",
+                                "mis_id": "29-2023-24166-61845",
+                                "room": "A1418790635",
+                                "period": "A313122702",
+                                "period_instance_id": "61845",
+                                "employee": "A2082387062",
+                                "alternative": null,
+                                "priority": null,
+                                "start_at": {
+                                    "date": "2023-07-21 08:15:00.000000",
+                                    "timezone_type": 3,
+                                    "timezone": "UTC"
+                                },
+                                "end_at": {
+                                    "date": "2023-07-21 09:15:00.000000",
+                                    "timezone_type": 3,
+                                    "timezone": "UTC"
+                                },
+                                "day_number": null,
+                                "created_at": {
+                                    "date": "2022-09-05 14:29:18.000000",
+                                    "timezone_type": 3,
+                                    "timezone": "UTC"
+                                },
+                                "updated_at": {
+                                    "date": "2022-09-05 14:29:18.000000",
+                                    "timezone_type": 3,
+                                    "timezone": "UTC"
+                                }
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": "A791079319",
+                    "mis_id": "14562",
+                    "name": "10z/Ma1",
+                    "code": null,
+                    "description": "10z/Ma1",
+                    "subject": "A536949272",
+                    "alternative": null,
+                    "priority": null,
+                    "restored_at": null,
+                    "created_at": {
+                        "date": "2022-09-05 14:21:57.000000",
+                        "timezone_type": 3,
+                        "timezone": "UTC"
+                    },
+                    "updated_at": {
+                        "date": "2023-04-04 06:46:31.000000",
+                        "timezone_type": 3,
+                        "timezone": "UTC"
+                    },
+                    "meta": {
+                        "is_main_teacher": false,
+                        "is_class_teacher": true,
+                        "role": "Class Teacher",
+                        "all_roles": [
+                            "Class Teacher"
+                        ]
+                    },
+                    "lessons": {
+                        "data": [
+                            {
+                                "id": "A1141224823",
+                                "mis_id": "29-2023-23273-61822",
+                                "room": "A753848839",
+                                "period": "A543800149",
+                                "period_instance_id": "61822",
+                                "employee": "A2082387062",
+                                "alternative": null,
+                                "priority": null,
+                                "start_at": {
+                                    "date": "2023-07-17 09:15:00.000000",
+                                    "timezone_type": 3,
+                                    "timezone": "UTC"
+                                },
+                                "end_at": {
+                                    "date": "2023-07-17 10:15:00.000000",
+                                    "timezone_type": 3,
+                                    "timezone": "UTC"
+                                },
+                                "day_number": null,
+                                "created_at": {
+                                    "date": "2022-09-05 14:29:16.000000",
+                                    "timezone_type": 3,
+                                    "timezone": "UTC"
+                                },
+                                "updated_at": {
+                                    "date": "2022-09-05 14:29:16.000000",
+                                    "timezone_type": 3,
+                                    "timezone": "UTC"
+                                }
+                            },
+                            {
+                                "id": "A1995352138",
+                                "mis_id": "29-2023-23404-61825",
+                                "room": "A1117465646",
+                                "period": "A845648926",
+                                "period_instance_id": "61825",
+                                "employee": "A2082387062",
+                                "alternative": null,
+                                "priority": null,
+                                "start_at": {
+                                    "date": "2023-07-17 13:30:00.000000",
+                                    "timezone_type": 3,
+                                    "timezone": "UTC"
+                                },
+                                "end_at": {
+                                    "date": "2023-07-17 14:30:00.000000",
+                                    "timezone_type": 3,
+                                    "timezone": "UTC"
+                                },
+                                "day_number": null,
+                                "created_at": {
+                                    "date": "2022-09-05 14:29:16.000000",
+                                    "timezone_type": 3,
+                                    "timezone": "UTC"
+                                },
+                                "updated_at": {
+                                    "date": "2022-09-05 14:29:16.000000",
+                                    "timezone_type": 3,
+                                    "timezone": "UTC"
+                                }
+                            },
+                            {
+                                "id": "A500607552",
+                                "mis_id": "29-2023-23881-61837",
+                                "room": "A384450156",
+                                "period": "A2118511096",
+                                "period_instance_id": "61837",
+                                "employee": "A836152918",
+                                "alternative": null,
+                                "priority": null,
+                                "start_at": {
+                                    "date": "2023-07-19 13:30:00.000000",
+                                    "timezone_type": 3,
+                                    "timezone": "UTC"
+                                },
+                                "end_at": {
+                                    "date": "2023-07-19 14:30:00.000000",
+                                    "timezone_type": 3,
+                                    "timezone": "UTC"
+                                },
+                                "day_number": null,
+                                "created_at": {
+                                    "date": "2022-09-05 14:29:17.000000",
+                                    "timezone_type": 3,
+                                    "timezone": "UTC"
+                                },
+                                "updated_at": {
+                                    "date": "2022-09-05 14:29:17.000000",
+                                    "timezone_type": 3,
+                                    "timezone": "UTC"
+                                }
+                            },
+                            {
+                                "id": "A1596088490",
+                                "mis_id": "29-2023-24142-61845",
+                                "room": "A2089006927",
+                                "period": "A313122702",
+                                "period_instance_id": "61845",
+                                "employee": "A501414080",
+                                "alternative": null,
+                                "priority": null,
+                                "start_at": {
+                                    "date": "2023-07-21 08:15:00.000000",
+                                    "timezone_type": 3,
+                                    "timezone": "UTC"
+                                },
+                                "end_at": {
+                                    "date": "2023-07-21 09:15:00.000000",
+                                    "timezone_type": 3,
+                                    "timezone": "UTC"
+                                },
+                                "day_number": null,
+                                "created_at": {
+                                    "date": "2022-09-05 14:29:18.000000",
+                                    "timezone_type": 3,
+                                    "timezone": "UTC"
+                                },
+                                "updated_at": {
+                                    "date": "2022-09-05 14:29:18.000000",
+                                    "timezone_type": 3,
+                                    "timezone": "UTC"
+                                }
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": "A593290893",
+                    "mis_id": "14615",
+                    "name": "11C/Re1",
+                    "code": null,
+                    "description": "11C/Re1",
+                    "subject": "A1349279440",
+                    "alternative": null,
+                    "priority": null,
+                    "restored_at": null,
+                    "created_at": {
+                        "date": "2022-09-05 14:21:57.000000",
+                        "timezone_type": 3,
+                        "timezone": "UTC"
+                    },
+                    "updated_at": {
+                        "date": "2023-04-04 06:46:31.000000",
+                        "timezone_type": 3,
+                        "timezone": "UTC"
+                    },
+                    "meta": {
+                        "is_main_teacher": true,
+                        "is_class_teacher": true,
+                        "role": "Main Class Teacher",
+                        "all_roles": [
+                            "Main Class Teacher",
+                            "Class Teacher"
+                        ]
+                    },
+                    "lessons": {
+                        "data": [
+                            {
+                                "id": "A1465976378",
+                                "mis_id": "29-2023-23362-61824",
+                                "room": "A1285851287",
+                                "period": "A1012985991",
+                                "period_instance_id": "61824",
+                                "employee": "A2082387062",
+                                "alternative": null,
+                                "priority": null,
+                                "start_at": {
+                                    "date": "2023-07-17 11:35:00.000000",
+                                    "timezone_type": 3,
+                                    "timezone": "UTC"
+                                },
+                                "end_at": {
+                                    "date": "2023-07-17 12:35:00.000000",
+                                    "timezone_type": 3,
+                                    "timezone": "UTC"
+                                },
+                                "day_number": null,
+                                "created_at": {
+                                    "date": "2022-09-05 14:29:16.000000",
+                                    "timezone_type": 3,
+                                    "timezone": "UTC"
+                                },
+                                "updated_at": {
+                                    "date": "2022-09-05 14:29:16.000000",
+                                    "timezone_type": 3,
+                                    "timezone": "UTC"
+                                }
+                            },
+                            {
+                                "id": "A101553788",
+                                "mis_id": "29-2023-23499-61828",
+                                "room": "A1788205698",
+                                "period": "A1314835776",
+                                "period_instance_id": "61828",
+                                "employee": "A2082387062",
+                                "alternative": null,
+                                "priority": null,
+                                "start_at": {
+                                    "date": "2023-07-18 09:15:00.000000",
+                                    "timezone_type": 3,
+                                    "timezone": "UTC"
+                                },
+                                "end_at": {
+                                    "date": "2023-07-18 10:15:00.000000",
+                                    "timezone_type": 3,
+                                    "timezone": "UTC"
+                                },
+                                "day_number": null,
+                                "created_at": {
+                                    "date": "2022-09-05 14:29:16.000000",
+                                    "timezone_type": 3,
+                                    "timezone": "UTC"
+                                },
+                                "updated_at": {
+                                    "date": "2022-09-05 14:29:16.000000",
+                                    "timezone_type": 3,
+                                    "timezone": "UTC"
+                                }
+                            },
+                            {
+                                "id": "A1062541173",
+                                "mis_id": "29-2023-23887-61837",
+                                "room": "A1285851287",
+                                "period": "A2118511096",
+                                "period_instance_id": "61837",
+                                "employee": "A2082387062",
+                                "alternative": null,
+                                "priority": null,
+                                "start_at": {
+                                    "date": "2023-07-19 13:30:00.000000",
+                                    "timezone_type": 3,
+                                    "timezone": "UTC"
+                                },
+                                "end_at": {
+                                    "date": "2023-07-19 14:30:00.000000",
+                                    "timezone_type": 3,
+                                    "timezone": "UTC"
+                                },
+                                "day_number": null,
+                                "created_at": {
+                                    "date": "2022-09-05 14:29:17.000000",
+                                    "timezone_type": 3,
+                                    "timezone": "UTC"
+                                },
+                                "updated_at": {
+                                    "date": "2022-09-05 14:29:17.000000",
+                                    "timezone_type": 3,
+                                    "timezone": "UTC"
+                                }
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": "A1126163960",
+                    "mis_id": "14310",
+                    "name": "7PIN/Re",
+                    "code": null,
+                    "description": "7PIN/Re",
+                    "subject": "A1349279440",
+                    "alternative": null,
+                    "priority": null,
+                    "restored_at": null,
+                    "created_at": {
+                        "date": "2022-09-05 14:21:58.000000",
+                        "timezone_type": 3,
+                        "timezone": "UTC"
+                    },
+                    "updated_at": {
+                        "date": "2023-04-04 06:46:29.000000",
+                        "timezone_type": 3,
+                        "timezone": "UTC"
+                    },
+                    "meta": {
+                        "is_main_teacher": true,
+                        "is_class_teacher": true,
+                        "role": "Main Class Teacher",
+                        "all_roles": [
+                            "Main Class Teacher",
+                            "Class Teacher"
+                        ]
+                    },
+                    "lessons": {
+                        "data": [
+                            {
+                                "id": "A1925607179",
+                                "mis_id": "29-2023-23970-61840",
+                                "room": "A916583676",
+                                "period": "A180298026",
+                                "period_instance_id": "61840",
+                                "employee": "A2082387062",
+                                "alternative": null,
+                                "priority": null,
+                                "start_at": {
+                                    "date": "2023-07-20 09:15:00.000000",
+                                    "timezone_type": 3,
+                                    "timezone": "UTC"
+                                },
+                                "end_at": {
+                                    "date": "2023-07-20 10:15:00.000000",
+                                    "timezone_type": 3,
+                                    "timezone": "UTC"
+                                },
+                                "day_number": null,
+                                "created_at": {
+                                    "date": "2022-09-05 14:29:17.000000",
+                                    "timezone_type": 3,
+                                    "timezone": "UTC"
+                                },
+                                "updated_at": {
+                                    "date": "2022-09-05 14:29:17.000000",
+                                    "timezone_type": 3,
+                                    "timezone": "UTC"
+                                }
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": "A1728301966",
+                    "mis_id": "14258",
+                    "name": "7RED/Gg",
+                    "code": null,
+                    "description": "7RED/Gg",
+                    "subject": "A1378534773",
+                    "alternative": null,
+                    "priority": null,
+                    "restored_at": null,
+                    "created_at": {
+                        "date": "2022-09-05 14:21:58.000000",
+                        "timezone_type": 3,
+                        "timezone": "UTC"
+                    },
+                    "updated_at": {
+                        "date": "2023-04-04 06:46:30.000000",
+                        "timezone_type": 3,
+                        "timezone": "UTC"
+                    },
+                    "meta": {
+                        "is_main_teacher": true,
+                        "is_class_teacher": true,
+                        "role": "Main Class Teacher",
+                        "all_roles": [
+                            "Main Class Teacher",
+                            "Class Teacher"
+                        ]
+                    },
+                    "lessons": {
+                        "data": [
+                            {
+                                "id": "A431641075",
+                                "mis_id": "29-2023-24189-61846",
+                                "room": "A816665445",
+                                "period": "A682390297",
+                                "period_instance_id": "61846",
+                                "employee": "A2082387062",
+                                "alternative": null,
+                                "priority": null,
+                                "start_at": {
+                                    "date": "2023-07-21 09:15:00.000000",
+                                    "timezone_type": 3,
+                                    "timezone": "UTC"
+                                },
+                                "end_at": {
+                                    "date": "2023-07-21 10:15:00.000000",
+                                    "timezone_type": 3,
+                                    "timezone": "UTC"
+                                },
+                                "day_number": null,
+                                "created_at": {
+                                    "date": "2022-09-05 14:29:18.000000",
+                                    "timezone_type": 3,
+                                    "timezone": "UTC"
+                                },
+                                "updated_at": {
+                                    "date": "2022-09-05 14:29:18.000000",
+                                    "timezone_type": 3,
+                                    "timezone": "UTC"
+                                }
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": "A2146953594",
+                    "mis_id": "14348",
+                    "name": "8B/Re",
+                    "code": null,
+                    "description": "8B/Re",
+                    "subject": "A1349279440",
+                    "alternative": null,
+                    "priority": null,
+                    "restored_at": null,
+                    "created_at": {
+                        "date": "2022-09-05 14:21:58.000000",
+                        "timezone_type": 3,
+                        "timezone": "UTC"
+                    },
+                    "updated_at": {
+                        "date": "2023-04-04 06:46:31.000000",
+                        "timezone_type": 3,
+                        "timezone": "UTC"
+                    },
+                    "meta": {
+                        "is_main_teacher": true,
+                        "is_class_teacher": true,
+                        "role": "Main Class Teacher",
+                        "all_roles": [
+                            "Main Class Teacher",
+                            "Class Teacher"
+                        ]
+                    },
+                    "lessons": {
+                        "data": [
+                            {
+                                "id": "A602127201",
+                                "mis_id": "29-2023-23345-61823",
+                                "room": "A816665445",
+                                "period": "A644635884",
+                                "period_instance_id": "61823",
+                                "employee": "A2082387062",
+                                "alternative": null,
+                                "priority": null,
+                                "start_at": {
+                                    "date": "2023-07-17 10:35:00.000000",
+                                    "timezone_type": 3,
+                                    "timezone": "UTC"
+                                },
+                                "end_at": {
+                                    "date": "2023-07-17 11:35:00.000000",
+                                    "timezone_type": 3,
+                                    "timezone": "UTC"
+                                },
+                                "day_number": null,
+                                "created_at": {
+                                    "date": "2022-09-05 14:29:16.000000",
+                                    "timezone_type": 3,
+                                    "timezone": "UTC"
+                                },
+                                "updated_at": {
+                                    "date": "2022-09-05 14:29:16.000000",
+                                    "timezone_type": 3,
+                                    "timezone": "UTC"
+                                }
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": "A1781753884",
+                    "mis_id": "14385",
+                    "name": "8E/Re",
+                    "code": null,
+                    "description": "8E/Re",
+                    "subject": "A1349279440",
+                    "alternative": null,
+                    "priority": null,
+                    "restored_at": null,
+                    "created_at": {
+                        "date": "2022-09-05 14:21:58.000000",
+                        "timezone_type": 3,
+                        "timezone": "UTC"
+                    },
+                    "updated_at": {
+                        "date": "2023-04-04 06:46:29.000000",
+                        "timezone_type": 3,
+                        "timezone": "UTC"
+                    },
+                    "meta": {
+                        "is_main_teacher": true,
+                        "is_class_teacher": true,
+                        "role": "Main Class Teacher",
+                        "all_roles": [
+                            "Main Class Teacher",
+                            "Class Teacher"
+                        ]
+                    },
+                    "lessons": {
+                        "data": [
+                            {
+                                "id": "A414516544",
+                                "mis_id": "29-2023-23798-61835",
+                                "room": "A916583676",
+                                "period": "A1648537814",
+                                "period_instance_id": "61835",
+                                "employee": "A2082387062",
+                                "alternative": null,
+                                "priority": null,
+                                "start_at": {
+                                    "date": "2023-07-19 10:35:00.000000",
+                                    "timezone_type": 3,
+                                    "timezone": "UTC"
+                                },
+                                "end_at": {
+                                    "date": "2023-07-19 11:35:00.000000",
+                                    "timezone_type": 3,
+                                    "timezone": "UTC"
+                                },
+                                "day_number": null,
+                                "created_at": {
+                                    "date": "2022-09-05 14:29:17.000000",
+                                    "timezone_type": 3,
+                                    "timezone": "UTC"
+                                },
+                                "updated_at": {
+                                    "date": "2022-09-05 14:29:17.000000",
+                                    "timezone_type": 3,
+                                    "timezone": "UTC"
+                                }
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": "A1397789455",
+                    "mis_id": "14480",
+                    "name": "9y/Ma3",
+                    "code": null,
+                    "description": "9y/Ma3",
+                    "subject": "A536949272",
+                    "alternative": null,
+                    "priority": null,
+                    "restored_at": null,
+                    "created_at": {
+                        "date": "2022-09-05 14:21:58.000000",
+                        "timezone_type": 3,
+                        "timezone": "UTC"
+                    },
+                    "updated_at": {
+                        "date": "2023-04-04 06:46:31.000000",
+                        "timezone_type": 3,
+                        "timezone": "UTC"
+                    },
+                    "meta": {
+                        "is_main_teacher": false,
+                        "is_class_teacher": true,
+                        "role": "Class Teacher",
+                        "all_roles": [
+                            "Class Teacher"
+                        ]
+                    },
+                    "lessons": {
+                        "data": [
+                            {
+                                "id": "A2121022612",
+                                "mis_id": "29-2023-23277-61822",
+                                "room": "A1817329959",
+                                "period": "A543800149",
+                                "period_instance_id": "61822",
+                                "employee": "A1490920608",
+                                "alternative": null,
+                                "priority": null,
+                                "start_at": {
+                                    "date": "2023-07-17 09:15:00.000000",
+                                    "timezone_type": 3,
+                                    "timezone": "UTC"
+                                },
+                                "end_at": {
+                                    "date": "2023-07-17 10:15:00.000000",
+                                    "timezone_type": 3,
+                                    "timezone": "UTC"
+                                },
+                                "day_number": null,
+                                "created_at": {
+                                    "date": "2022-09-05 14:29:16.000000",
+                                    "timezone_type": 3,
+                                    "timezone": "UTC"
+                                },
+                                "updated_at": {
+                                    "date": "2022-09-05 14:29:16.000000",
+                                    "timezone_type": 3,
+                                    "timezone": "UTC"
+                                }
+                            },
+                            {
+                                "id": "A1711056213",
+                                "mis_id": "29-2023-23599-61830",
+                                "room": "A452000058",
+                                "period": "A1515192946",
+                                "period_instance_id": "61830",
+                                "employee": "A2082387062",
+                                "alternative": null,
+                                "priority": null,
+                                "start_at": {
+                                    "date": "2023-07-18 11:35:00.000000",
+                                    "timezone_type": 3,
+                                    "timezone": "UTC"
+                                },
+                                "end_at": {
+                                    "date": "2023-07-18 12:35:00.000000",
+                                    "timezone_type": 3,
+                                    "timezone": "UTC"
+                                },
+                                "day_number": null,
+                                "created_at": {
+                                    "date": "2022-09-05 14:29:17.000000",
+                                    "timezone_type": 3,
+                                    "timezone": "UTC"
+                                },
+                                "updated_at": {
+                                    "date": "2022-09-05 14:29:17.000000",
+                                    "timezone_type": 3,
+                                    "timezone": "UTC"
+                                }
+                            },
+                            {
+                                "id": "A259207576",
+                                "mis_id": "29-2023-23971-61840",
+                                "room": "A452000058",
+                                "period": "A180298026",
+                                "period_instance_id": "61840",
+                                "employee": "A1624134916",
+                                "alternative": null,
+                                "priority": null,
+                                "start_at": {
+                                    "date": "2023-07-20 09:15:00.000000",
+                                    "timezone_type": 3,
+                                    "timezone": "UTC"
+                                },
+                                "end_at": {
+                                    "date": "2023-07-20 10:15:00.000000",
+                                    "timezone_type": 3,
+                                    "timezone": "UTC"
+                                },
+                                "day_number": null,
+                                "created_at": {
+                                    "date": "2022-09-05 14:29:17.000000",
+                                    "timezone_type": 3,
+                                    "timezone": "UTC"
+                                },
+                                "updated_at": {
+                                    "date": "2022-09-05 14:29:17.000000",
+                                    "timezone_type": 3,
+                                    "timezone": "UTC"
+                                }
+                            },
+                            {
+                                "id": "A335031151",
+                                "mis_id": "29-2023-24285-61848",
+                                "room": "A1817329959",
+                                "period": "A614967371",
+                                "period_instance_id": "61848",
+                                "employee": "A1624134916",
+                                "alternative": null,
+                                "priority": null,
+                                "start_at": {
+                                    "date": "2023-07-21 11:35:00.000000",
+                                    "timezone_type": 3,
+                                    "timezone": "UTC"
+                                },
+                                "end_at": {
+                                    "date": "2023-07-21 12:35:00.000000",
+                                    "timezone_type": 3,
+                                    "timezone": "UTC"
+                                },
+                                "day_number": null,
+                                "created_at": {
+                                    "date": "2022-09-05 14:29:18.000000",
+                                    "timezone_type": 3,
+                                    "timezone": "UTC"
+                                },
+                                "updated_at": {
+                                    "date": "2022-09-05 14:29:18.000000",
+                                    "timezone_type": 3,
+                                    "timezone": "UTC"
+                                }
+                            }
+                        ]
+                    }
+                }
+            ]
+        }
+    },
+    "meta": {
+        "includes": [
+            "contact_details",
+            "employment_details",
+            "extended_details",
+            "roles",
+            "allowances",
+            "scales",
+            "photo",
+            "roles.contract",
+            "allowances.contract",
+            "scales.contract",
+            "contracts",
+            "contracts.roles",
+            "contracts.salary",
+            "contracts.salary.allowances",
+            "contracts.salary.scales",
+            "salary",
+            "salary.contract",
+            "groups",
+            "campus",
+            "classes",
+            "classes.subject",
+            "classes.lessons",
+            "classes.lessons.period",
+            "classes.lessons.room",
+            "behaviours",
+            "behaviours.students",
+            "hierarchy",
+            "hierarchy.employment_details",
+            "employee_absences",
+            "identifiers",
+            "user_defined_fields",
+            "next_of_kin",
+            "employment_checks",
+            "qualifications"
+        ]
+    }
+}
