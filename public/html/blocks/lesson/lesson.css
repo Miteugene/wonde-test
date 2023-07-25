@@ -1,0 +1,22 @@
+.lesson {
+  margin: 0;
+  padding: 0;
+
+  width: 100%;
+  opacity: 0.8;
+  border-radius: 5px;
+  position: relative;
+
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+
+  cursor: pointer;
+
+  transition: opacity 0.5s;
+}
+
+.lesson:hover {
+  opacity: 1;
+}

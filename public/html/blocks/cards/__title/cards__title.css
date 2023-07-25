@@ -1,0 +1,8 @@
+.cards__title {
+  min-width: 30px;
+
+  font-weight: 200;
+  font-size: 12px;
+  line-height: 24px;
+  color: inherit;
+}

@@ -1,0 +1,13 @@
+.calendar__container {
+  margin: 0;
+  width: 100%;
+  height: 100%;
+
+  padding: 10px;
+
+  display: grid;
+  grid-template-columns: repeat(8, 1fr);
+  grid-template-rows: repeat(13, 1fr);
+  grid-auto-flow: column;
+  gap: 0px;
+}

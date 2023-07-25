@@ -1,0 +1,17 @@
+.footer__link {
+  color: #ffffff;
+  text-decoration:  none;
+  line-height: 12px;
+  font-size: 12px;
+  font-weight: normal;
+
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+
+  transition: opacity 1s;
+}
+
+.footer__link:hover {
+  opacity: 0.5;
+}

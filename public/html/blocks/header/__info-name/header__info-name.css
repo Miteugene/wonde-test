@@ -1,0 +1,10 @@
+.header__info-name {
+  margin: 0;
+  margin-top: 1px;
+
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 24px;
+
+  text-transform: uppercase;
+}

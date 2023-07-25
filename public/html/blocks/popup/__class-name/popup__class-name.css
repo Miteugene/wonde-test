@@ -1,0 +1,15 @@
+.popup__class-name {
+  margin: 0;
+  padding: 0;
+  
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 24px;
+  color: inherit;
+
+  margin-bottom: 10px;
+}
+
+.popup__class-name::before {
+  content: "Class: ";
+}

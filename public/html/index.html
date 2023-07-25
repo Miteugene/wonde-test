@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="./public/html/pages/index.css">
+  <title>Wonde - Korotkov Technical Exercise</title>
+</head>
+
+<body class="body">
+
+  <div class="page">
+
+    <header class="header">
+
+      <div class="header__block">
+        <img class="header__logo" src="./public/html/images/wonde-icon-colour.svg" alt="wonde">
+        <div class="header__info">
+          <p class="header__info-title">Wonde - Evgenii Korotkov</p>
+          <p class="header__info-name">Technical Exercise</p>
+        </div>
+      </div>
+
+    </header>
+
+    <main class="content">
+
+      <section class="schedule">
+
+        <div class="employees">
+          <ul class="employees__list">
+            <!-- List of employees -->
+          </ul>
+        </div>
+
+        <div class="calendar">
+
+          <div class="calendar__employee">
+          </div>
+
+          <div class="calendar__navigation-wrapper">
+          </div>
+
+          <div class="calendar__container">
+            <!-- Calendar cells -->
+          </div>
+
+        </div>
+
+      </section>
+
+    </main>
+
+    <footer class="footer">
+      <div class="footer__block">
+        <ul class="footer__link-list">
+          <li class="footer__link-list-item">
+            <a class="footer__link" href="https://github.com/Miteugene/wonde-test" target="_blank">
+              <img class="footer__social-icon" src="./public/html/images/github.png" alt="github">miteugene
+            </a>
+          </li>
+          <li class="footer__link-list-item">
+            <a class="footer__link" href="https://www.linkedin.com/in/evgenii-korotkov-a74266204/" target="_blank">
+              <img class="footer__social-icon" src="./public/html/images/linkedin.png" alt="linkedin">Evgenii Korotkov
+            </a>
+          </li>
+          <li class="footer__link-list-item">
+            <a class="footer__link" href="https://www.instagram.com/miteugene/" target="_blank">
+              <img class="footer__social-icon" src="./public/html/images/instagram.png" alt="instagram">miteugene
+            </a>
+          </li>
+        </ul>
+      </div>
+    </footer>
+
+    <div class="popup">
+      <div class="popup__container">
+        <div class="popup__header">
+          <p class="popup__title">LessonName</p>
+          <button type="button" class="popup__button-close"></button>
+        </div>
+        <div class="popup__class">
+          <div class="popup__class-name">ClassName</div>
+          <ul class="popup__students-list">
+            <!-- students-list -->
+          </ul>
+        </div>
+      </div>
+    </div>
+
+  </div>
+
+
+  <template id="cards-template">
+    <li class="cards__item">
+      <img class="cards__image" src="./public/html/images/user.png" alt="">
+      <div class="cards__info">
+        <p class="cards__title"></p>
+        <p class="cards__name"></p>
+      </div>
+    </li>
+  </template>
+
+  <template id="calendar-cell-template">
+    <div class="calendar__cell">
+    </div>
+  </template>
+
+  <template id="calendar-navigation-template">
+    <div class="calendar__navigation">
+    </div>
+  </template>
+
+  <template id="lesson-template">
+    <div class="lesson">
+      <p class="lesson__time"></p>
+      <p class="lesson__class-name"></p>
+    </div>
+  </template>
+
+  <template id="student-template">
+    <li class="popup__student">
+    </li>
+  </template>
+
+  <script src="./public/html/scripts/base.js"></script>
+  <script src="./public/html/scripts/employees_list.js"></script>
+  <script src="./public/html/scripts/calendar.js"></script>
+  <script src="./public/html/scripts/lessons.js"></script>
+  <script src="./public/html/scripts/class.js"></script>
+
+</body>
+</html>
