@@ -1,0 +1,16 @@
+.popup__students-list {
+  margin: 0;
+  padding: 0;
+  
+  min-width: 300px;
+
+  overflow-y: scroll;
+
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+
+  counter-reset: my-counter;
+  list-style: none;
+}

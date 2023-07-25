@@ -1,0 +1,11 @@
+.popup__student {
+  counter-increment: my-counter;
+  position: relative;
+  padding-left: 30px;
+}
+
+.popup__student::before {
+  content: counter(my-counter);
+  position: absolute;
+  left: 0;
+}
