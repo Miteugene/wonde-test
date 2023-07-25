@@ -15,4 +15,4 @@ Unfortunately, I have no experience developing any js framework.
 It's here just to demonstrate.
 PR: https://github.com/Miteugene/wonde-test/pull/3/files
 
-![page example](https://github.com/Miteugene/wonde-test/page.jpg)
+![page example](https://korotkov.me/public/page.jpg)
